@@ -1,0 +1,6 @@
+Job Sequency problem
+
+
+jobs     j1  j2  j3  j4  j5
+profit   20  15  10   5   1
+deadline  2   2   1   3   3
